@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Face-Emotion-Recognition-Using-deep-learning](https://github.com/gaurbprajapati/Face-Emotion-Recognition-Using-deep-learning)
 
-- 🌱 I’m currently learning **React , Backend**
+- 🌱 I’m currently learning **React , Backend , AWS , GCP**
 
 - 🤝 I’m looking for help with **Cloud**
 
