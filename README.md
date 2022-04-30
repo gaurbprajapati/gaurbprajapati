@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Gaurav Prajapati</h1>
 <h3 align="center">A frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Face-Emotion-Recognition-Using-deep-learning](https://github.com/gaurbprajapati/Face-Emotion-Recognition-Using-deep-learning)
+- 🔭 I’m currently working on Pyhton , Frontend 
 
 - 🌱 I’m currently learning **React , Backend , AWS , GCP**
 
-- 🤝 I’m looking for help with **Cloud**
+<!-- - 🤝 I’m looking for help with **Cloud** -->
 
-- 👨‍💻 All of my projects are available at [https://gaurbprajapati.github.io/portfolio-website/](https://gaurbprajapati.github.io/portfolio-website/)
+<!-- - 👨‍💻 All of my projects are available at [https://gaurbprajapati.github.io/portfolio-website/](https://gaurbprajapati.github.io/portfolio-website/) -->
 
 - 💬 Ask me about **Python , CSS ,HTML**
 
 - 📫 How to reach me **gauravprajapati094@gmail.com**
+- ❤️  Developing problem solving skills On codechef (1722 Max rating ) , Leetcode , GFG , HackerRank.
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1gb0qiRaL6qQFUw3GdGeir_bHogsIFd8a](https://drive.google.com/drive/folders/1gb0qiRaL6qQFUw3GdGeir_bHogsIFd8a)
+<!-- - 📄 Know about my experiences [https://drive.google.com/drive/folders/1gb0qiRaL6qQFUw3GdGeir_bHogsIFd8a](https://drive.google.com/drive/folders/1gb0qiRaL6qQFUw3GdGeir_bHogsIFd8a) -->
 
 - ⚡ Fun fact **In happiness Heaven**
 
