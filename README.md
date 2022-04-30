@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Prajapati</h1>
-<h3 align="center">A frontend developer from India</h3>
+<h3 align="center">I am  Undergraduate Btech 2nd Year computer Science Student at NIET  UP INDIA</h3>
 
 - 🔭 I’m currently working on Pyhton , Frontend 
 
