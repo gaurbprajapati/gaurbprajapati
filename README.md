@@ -7,6 +7,8 @@
 
 <!-- - 🤝 I’m looking for help with **Cloud** -->
 
+<!-- - Google codeJam 2022 Qualifications round Global Rank 13659  -->
+
 <!-- - 👨‍💻 All of my projects are available at [https://gaurbprajapati.github.io/portfolio-website/](https://gaurbprajapati.github.io/portfolio-website/) -->
 
 - 💬 Ask me about **Python , CSS ,HTML**
