@@ -7,7 +7,7 @@
 
 <!-- - 🤝 I’m looking for help with **Cloud** -->
 
-<!-- - Google codeJam 2022 Qualifications round Global Rank 13659  -->
+<h4>Google codeJam 2022 Qualifications round Global Rank 13659 </h4>
 
 <!-- - 👨‍💻 All of my projects are available at [https://gaurbprajapati.github.io/portfolio-website/](https://gaurbprajapati.github.io/portfolio-website/) -->
 
