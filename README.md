@@ -7,14 +7,13 @@
 
 <!-- - 🤝 I’m looking for help with **Cloud** -->
 
-<h4>Google codeJam 2022 Qualifications round Global Rank 13659 </h4>
 
 <!-- - 👨‍💻 All of my projects are available at [https://gaurbprajapati.github.io/portfolio-website/](https://gaurbprajapati.github.io/portfolio-website/) -->
 
 - 💬 Ask me about **Python , CSS ,HTML**
-
 - 📫 How to reach me **gauravprajapati094@gmail.com**
 - ❤️  Developing problem solving skills On codechef (1722 Max rating ) , Leetcode , GFG , HackerRank.
+- <h5>Google codeJam 2022 Qualifications round Global Rank 13659 </h5>
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/drive/folders/1gb0qiRaL6qQFUw3GdGeir_bHogsIFd8a](https://drive.google.com/drive/folders/1gb0qiRaL6qQFUw3GdGeir_bHogsIFd8a) -->
 
