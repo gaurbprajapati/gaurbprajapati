@@ -11,7 +11,8 @@
 <!-- - 👨‍💻 All of my projects are available at [https://gaurbprajapati.github.io/portfolio-website/](https://gaurbprajapati.github.io/portfolio-website/) -->
 
 - 💬 Ask me about **Python , CSS ,HTML**
-- 📫 How to reach me **gauravprajapati094@gmail.com**
+<!-- - 📫 How to reach me I am Available at Link -->
+- 📫 How to reach me **gauravprajapati094@gmail.com** And linkedin.
 - ❤️  Developing problem solving skills On codechef (1722 Max rating ) , Leetcode , GFG , HackerRank.
 - <h5>Google codeJam 2022 Qualifications round Global Rank 13659 </h5>
 
