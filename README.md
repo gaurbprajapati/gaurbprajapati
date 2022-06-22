@@ -34,7 +34,7 @@
 
 <h2 >Skills :</h2>
 Python (Pandas , Numpy , tkinter matplot )
-| HTML , CSS ,JavaScript | Java | C++ | 
+| HTML , CSS ,JavaScript | Java | C++ | Bootstrap.
 
 
 
