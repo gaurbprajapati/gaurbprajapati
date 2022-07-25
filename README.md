@@ -32,6 +32,7 @@
 <a href="https://auth.geeksforgeeks.org/user/gauravprajapati094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gauravprajapati094" height="30" width="40" /></a>
 </p>
 
+
 <h2 >Skills :</h2>
 Python (Pandas , Numpy , tkinter matplot )
 | HTML , CSS ,JavaScript | Java | C++ | Bootstrap.
