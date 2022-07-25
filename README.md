@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python , Frontend **
 <!-- - 📫 How to reach me I am Available at Link -->
-- 📫 How to reach me **gauravprajapati094@gmail.com** And linkedin.
+- 📫 How to reach me **gauravprajapati094@gmail.com** And <a href="https://linkedin.com/in/gaurav-prajapati-297513188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-prajapati-297513188" height="30" width="40" /></a>.
 - ❤️  Developing problem solving skills On codechef (1722 Max rating ) , Leetcode , GFG , HackerRank.
 - <h5>Google codeJam 2022 Qualifications round Global Rank 13659 </h5>
 
@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://dev.to/gaurbprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gaurbprajapati" height="30" width="40" /></a>
 <a href="https://twitter.com/varu_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varu_____" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gaurav-prajapati-297513188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-prajapati-297513188" height="30" width="40" /></a>
+
 <a href="https://kaggle.com/gaurbprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gaurbprajapati" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gaurbprajapati" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gaurbprajapati" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gauravprajapati5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gauravprajapati5" height="30" width="40" /></a>
