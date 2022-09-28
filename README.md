@@ -17,8 +17,7 @@
 - <h5>Google codeJam 2022 Qualifications round Global Rank 13659 </h5>
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/drive/folders/1gb0qiRaL6qQFUw3GdGeir_bHogsIFd8a](https://drive.google.com/drive/folders/1gb0qiRaL6qQFUw3GdGeir_bHogsIFd8a) -->
-
-<!-- -  - ⚡ Fun fact **In happiness Heaven**  -->
+- ⚡ Fun fact **In happiness Heaven** 
 
 
 
