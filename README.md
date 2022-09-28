@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Pyhton , Frontend(REACT)
 
-- 🌱 I’m currently learning **Backend (Django) , AWS , GCP**
+- 🌱 I’m currently learning **Backend  , AWS , GCP**
 
 <!-- - 🤝 I’m looking for help with **Cloud** -->
 
@@ -37,8 +37,8 @@
 
 -->
 <h2 >Skills :</h2>
-Python (Pandas , Numpy , tkinter matplot )
-| HTML , CSS ,JavaScript | REACT | Java | C++ | Bootstrap.
+Python (Pandas , Numpy , tkinter ,matplot  )
+| HTML , CSS ,JavaScript | REACT | Java | C++ (Novice) | Bootstrap | Material Ui | Antd.
 
 
 
