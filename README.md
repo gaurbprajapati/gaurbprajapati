@@ -13,7 +13,7 @@
 - 💬 Ask me about **Python , Frontend **
 <!-- - 📫 How to reach me I am Available at Link -->
 - 📫 How to reach me **gauravprajapati094@gmail.com** And <a href="https://linkedin.com/in/gaurav-prajapati-297513188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-prajapati-297513188" height="30" width="40" /></a>.
-- ❤️  Developing problem solving skills On codechef (1798 Max rating ) , Leetcode 3* , GFG 400+ coding score, HackerRank 5* in python and problem solving. Solved more than 600  DSA problems on overall coding platforms. 
+- ❤️  Developing problem solving skills On codechef (1798 Max rating ) , Leetcode 3* , GFG 400+ coding score, HackerRank 5* in python and problem solving. 
 - <h5>Google codeJam 2022 Qualifications round Global Rank 13659 </h5>
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/drive/folders/1gb0qiRaL6qQFUw3GdGeir_bHogsIFd8a](https://drive.google.com/drive/folders/1gb0qiRaL6qQFUw3GdGeir_bHogsIFd8a) -->
