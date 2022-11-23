@@ -20,7 +20,7 @@
 <!-- - 📄 Know about my experiences [https://drive.google.com/drive/folders/1gb0qiRaL6qQFUw3GdGeir_bHogsIFd8a](https://drive.google.com/drive/folders/1gb0qiRaL6qQFUw3GdGeir_bHogsIFd8a) -->
 - ⚡ Fun fact **In happiness Heaven** 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurbprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="gaurbprajapati" /> </p>
 
