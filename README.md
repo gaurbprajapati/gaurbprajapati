@@ -30,11 +30,6 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurbprajapati&show_icons=true&locale=en&layout=compact" alt="gaurbprajapati" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurbprajapati&show_icons=true&locale=en" alt="gaurbprajapati" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurbprajapati&" alt="gaurbprajapati" /></p>
 
 
 
