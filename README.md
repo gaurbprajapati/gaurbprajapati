@@ -32,6 +32,10 @@
 
 
 
+<h2 >Skills :</h2>
+Python (Pandas , Numpy , tkinter ,matplot  )
+| HTML , CSS ,JavaScript | REACT | Java | C++ (Novice) | Bootstrap | Material Ui | Antd.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,10 +51,6 @@
 </p>
 
 -->
-
-<h2 >Skills :</h2>
-Python (Pandas , Numpy , tkinter ,matplot  )
-| HTML , CSS ,JavaScript | REACT | Java | C++ (Novice) | Bootstrap | Material Ui | Antd.
 
 
 
