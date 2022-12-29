@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Prajapati</h1>
 <h3 align="center">I am  Undergraduate Btech 3nd Year computer Science Student at NIET  UP INDIA</h3>
 
-- 🔭 I’m currently working on Pyhton , Frontend(REACT)
+- 🔭 I’m currently working on Pyhton (Django) , Frontend(REACT)
 
 - 🌱 I’m currently learning **Backend  , AWS , GCP**
 
