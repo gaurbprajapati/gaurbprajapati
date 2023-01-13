@@ -33,7 +33,7 @@
 
 
 <h2 >Skills :</h2>
-Python (Pandas , Numpy , tkinter ,matplot  )
+Python (Pandas , Numpy , tkinter ,matplot  )|Django|
 | HTML , CSS ,JavaScript | REACT | Java | C++ (Novice) | Bootstrap | Material Ui | Antd.
 
 
