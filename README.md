@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gaurav Prajapati</h1>
 <h3 align="center">I am  Undergraduate Btech 3nd Year computer Science Student at NIET  UP INDIA</h3>
 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gaurbprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="gaurbprajapati" /> </p>
+
+
+
 - 🔭 I’m currently working on Pyhton (Django) , Frontend(REACT)
 
 - 🌱 I’m currently learning **Backend  , AWS , GCP**
@@ -22,7 +27,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurbprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="gaurbprajapati" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurbprajapati" alt="gaurbprajapati" /></a> </p>
 
