@@ -104,7 +104,7 @@ As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQ
  <a  href="https://github.com/gaurbprajapati" target="_blank"><img alt="github" src="https://img.shields.io/badge/github%20-656d76.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://twitter.com/varu__" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:gauravprajapati094@gamil.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a  href="https://www.instagram.com/gaurbprajapati_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a  href="https://www.instagram.com/gaurbprajapati_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    </a>
  </div>
 
