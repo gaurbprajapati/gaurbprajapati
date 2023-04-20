@@ -67,13 +67,11 @@ As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQ
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [RESUME BUILDER](https://github.com/gaurbprajapati/QR-Based-Resume-builder)| This project simplifies resume creation with user-friendly interface, CRUD operations, customizable templates, PDF download, and upcoming QR format Using MERN stack. [LiveLink](https://victor-resume-builder.herokuapp.com/login)
+| [RESUME BUILDER](https://github.com/gaurbprajapati/QR-Based-Resume-builder)| This project simplifies resume creation with user-friendly interface, CRUD operations, customizable templates, PDF download, and upcoming QR format </br> Tech used:- MERN stack. [LiveLink](https://victor-resume-builder.herokuapp.com/login)
 | [Yogayata](https://github.com/gaurbprajapati/Gym-exercises-ReactApp) | A responsive fitness website built with ReactJS and Rapid API offers powerful search, exercise data, animated demos, and related Youtube videos. Upcoming features include user authentication, fitness tracking, and a blog. [LiveLink](https://yogayatahealth.netlify.app/)
 | [BLOGING WEBSITE](https://github.com/gaurbprajapati/django-blog) | A full-featured web app designed with Django's ORM and SQLite, offering CRUD functionality, user authentication, and responsive front-end interfaces built with HTML, CSS, and Bootstrap. |
-| [NEWSHUNT](https://github.com/gaurbprajapati/new-app) |Users to access breaking news headlines and summaries in 40 words or less for quick and easy consumption of news .Tech  used:- REACTJS and NEWSAPI|
-<!-- | [Netflix-Clone-PC-App](https://netflix-clone-saurav.herokuapp.com/)  | Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup and testing code using Jest. -->
-<!-- | [Netflix-Clone-Mobile-App](https://netflix-clone-9b94a.web.app/)     | Netflix clone App built with ReactJS, TMDB Api, Firebase, CSS and JavaScript. -->
-<!-- | [Payment Gateway Integration](https://sauravmukherjee44.github.io/Payment-Gateway-Integration/)     | Payment Gateway Integration for Donating specific amount of Money directly to the Needed one. Payment gateway integration, Razorpay is used. -->
+| [NEWSHUNT](https://github.com/gaurbprajapati/new-app) |Users to access breaking news headlines and summaries in 40 words or less for quick and easy consumption of news . </br> Tech  used:- REACTJS and NEWSAPI|
+| [wholesale.com](https:/)  |Currently working on full-featured e-commerce website with a shopping cart, product reviews and ratings, top products carousel, pagination, and search. It includes user profiles with order history and an admin panel for product and user management, order details, delivery status updates, checkout process, and payment integration with PayPal and credit cards. </br>Tech using : Django-Rest-Framework,Reactjs
 
 </br>
 </br>
