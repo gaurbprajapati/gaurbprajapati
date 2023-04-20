@@ -2,27 +2,37 @@
 
 <h1 align="center" >Hi, I'm <a color="red" href="https://www.linkedin.com/in/gaurav-prajapati-297513188/" target="_blank"> Gaurav Prajapati </a></h1>
 
-<h3 align="center"> Passionate Developer | DevOps Enthusiast </h3>
+<h4 align="center" >I am <b></b> BTECH <b>Computer Science Third Year Student </b> at NIET, As of now, I am focused on <a >web development, cloud Computing and Data Science </a> and exploring many fields such as DevOps etc.</h4>
 
+<h3 align="center"> Passionate Developer | LEARNER </h3>
+<div align="center">
+<a  href="https://www.linkedin.com/in/gaurav-prajapati-297513188/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a  href="https://github.com/gaurbprajapati" target="_blank"><img alt="github" src="https://img.shields.io/badge/github%20-656d76.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+<!-- <a href="https://twitter.com/varu__" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a> -->
+<a href="mailto:gauravprajapati094@gamil.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ <a  href="https://dev.to/gaurbprajapati" target="_blank"><img alt="dev" src="https://img.shields.io/badge/dev-000000?style=for-the-badge&logo=dev&logoColor=white">
+<!-- <a  href="https://www.instagram.com/gaurbprajapati_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> -->
+   </a>
+ </div>
+ 
+ </br>
+ </br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gaurbprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="gaurbprajapati" /> </p>
 
 
-<h4 align="center" >I am <b></b> BTECH <b>Computer Science Third Year Student </b> at NIET, As of now, I am focused on <a >web development, cloud Computing and Data Science </a> and exploring many fields.</h4>
 
 
 
 
  <b></b>
   <b></b>
-   <b></b>
+<!--    <b></b> -->
 
 
-<h1>Technical Skills 🛠</h1>
-   
- </br>
+<h1>Technical Skills </h1>
  
-I have a strong academic background in technical courses such as Operating Systems, Data Structures and Algorithms, DBMS , Computer Networks and Object Oriented Programming. Additionally, I have completed several online certificates, including HackerRank Problem Solving, Google Cloud Fundamentals, and Essential Google Cloud Infrastructure.
+I have a strong academic background in technical courses such as <b> Data Structures and Algorithms </b>, Operating Systems, DBMS , Computer Networks and Object Oriented Programming. Additionally, I have completed several online certificates, including HackerRank Problem Solving, Google Cloud Fundamentals, and Essential Google Cloud Infrastructure.
 
 As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQL,</b> as well as various frameworks and libraries such as <b>React.js, Django ,Django Rest Framework, Bootstrap,Material ui, Pandas, and Numpy</b>. I use tools such as VS Code and Github to manage my projects. I am Familar with MERN Stack as well.
 </br>
@@ -60,10 +70,8 @@ As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQ
 
 
 
-
-<p align="left">
-</p>
-
+<h1>Projects</h1>
+</br>
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
@@ -76,7 +84,9 @@ As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQ
 
 </br>
 </br>
-   
+
+
+ 
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurbprajapati" alt="gaurbprajapati" /></a> </p>
 
 </br>
@@ -97,18 +107,7 @@ As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQ
    
 
 </br>
-</br>
-</br>
- <h1 align="center">Let's Get Connected</h1>
-<div align="center">
-<a  href="https://www.linkedin.com/in/gaurav-prajapati-297513188/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a  href="https://github.com/gaurbprajapati" target="_blank"><img alt="github" src="https://img.shields.io/badge/github%20-656d76.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-<!-- <a href="https://twitter.com/varu__" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a> -->
-<a href="mailto:gauravprajapati094@gamil.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- <a  href="https://dev.to/gaurbprajapati" target="_blank"><img alt="dev" src="https://img.shields.io/badge/dev-000000?style=for-the-badge&logo=dev&logoColor=white">
-<!-- <a  href="https://www.instagram.com/gaurbprajapati_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> -->
-   </a>
- </div>
+
 
 
 
