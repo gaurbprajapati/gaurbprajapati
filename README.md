@@ -21,10 +21,13 @@
 
 <h1>Technical Skills 🛠</h1>
    
+ </br>
+ 
 I have a strong academic background in technical courses such as Operating Systems, Data Structures and Algorithms, DBMS , Computer Networks and Object Oriented Programming. Additionally, I have completed several online certificates, including HackerRank Problem Solving, Google Cloud Fundamentals, and Essential Google Cloud Infrastructure.
 
 As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQL,</b> as well as various frameworks and libraries such as <b>React.js, Django ,Django Rest Framework, Bootstrap,Material ui, Pandas, and Numpy</b>. I use tools such as VS Code and Github to manage my projects. I am Familar with MERN Stack as well.
-
+</br>
+</br>
 
 <p align="center"> 
 
@@ -52,11 +55,11 @@ As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQ
  <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
+</br>
 
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurbprajapati" alt="gaurbprajapati" /></a> </p>
 
 
 <p align="left">
@@ -65,14 +68,36 @@ As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQ
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [RESUME BUILDER](https://github.com/gaurbprajapati/QR-Based-Resume-builder)| This project simplifies resume creation with user-friendly interface, CRUD operations, customizable templates, PDF download, and upcoming QR format. Build using MERN stack. [LiveLink](https://victor-resume-builder.herokuapp.com/login)
+| [RESUME BUILDER](https://github.com/gaurbprajapati/QR-Based-Resume-builder)| This project simplifies resume creation with user-friendly interface, CRUD operations, customizable templates, PDF download, and upcoming QR format Using MERN stack. [LiveLink](https://victor-resume-builder.herokuapp.com/login)
 | [Yogayata](https://github.com/gaurbprajapati/Gym-exercises-ReactApp) | A responsive fitness website built with ReactJS and Rapid API offers powerful search, exercise data, animated demos, and related Youtube videos. Upcoming features include user authentication, fitness tracking, and a blog. [LiveLink](https://yogayatahealth.netlify.app/)
 | [BLOGING WEBSITE](https://github.com/gaurbprajapati/django-blog) | A full-featured web app designed with Django's ORM and SQLite, offering CRUD functionality, user authentication, and responsive front-end interfaces built with HTML, CSS, and Bootstrap. |
-| [NEWSHUNT](https://github.com/gaurbprajapati/new-app) | Users to access breaking news headlines and summaries in 40 words or
-less for quick and easy consumption of news .|
-| [Netflix-Clone-PC-App](https://netflix-clone-saurav.herokuapp.com/)  | Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup and testing code using Jest.
-| [Netflix-Clone-Mobile-App](https://netflix-clone-9b94a.web.app/)     | Netflix clone App built with ReactJS, TMDB Api, Firebase, CSS and JavaScript.
-| [Payment Gateway Integration](https://sauravmukherjee44.github.io/Payment-Gateway-Integration/)     | Payment Gateway Integration for Donating specific amount of Money directly to the Needed one. Payment gateway integration, Razorpay is used.
+| [NEWSHUNT](https://github.com/gaurbprajapati/new-app) |Users to access breaking news headlines and summaries in 40 words or less for quick and easy consumption of news .Tech  used:- REACTJS and NEWSAPI|
+<!-- | [Netflix-Clone-PC-App](https://netflix-clone-saurav.herokuapp.com/)  | Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup and testing code using Jest. -->
+<!-- | [Netflix-Clone-Mobile-App](https://netflix-clone-9b94a.web.app/)     | Netflix clone App built with ReactJS, TMDB Api, Firebase, CSS and JavaScript. -->
+<!-- | [Payment Gateway Integration](https://sauravmukherjee44.github.io/Payment-Gateway-Integration/)     | Payment Gateway Integration for Donating specific amount of Money directly to the Needed one. Payment gateway integration, Razorpay is used. -->
+
+</br>
+</br>
+   
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurbprajapati" alt="gaurbprajapati" /></a> </p>
+
+</br>
+</br>
+
+<table align="center" >
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=gaurbprajapati&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Gaurav Prajapati" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurbprajapati&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Gaurav Prajapati" /></td>
+  </tr>
+</table>
+
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurbprajapati&theme=dark" alt="Gaurav Prajapati" /></p>
+  </div>
+   
+
 
 
 <h3 align="left">Connect with me:</h3>
