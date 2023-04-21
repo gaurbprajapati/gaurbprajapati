@@ -34,7 +34,8 @@
  
 I have a strong academic background in technical courses such as <b> Data Structures and Algorithms </b>, Operating Systems, DBMS , Computer Networks and Object Oriented Programming. Additionally, I have completed several online certificates, including HackerRank Problem Solving, Google Cloud Fundamentals, and Essential Google Cloud Infrastructure.
 
-As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQL,</b> as well as various frameworks and libraries such as <b>React.js, Django ,Django Rest Framework, Bootstrap,Material ui, Pandas, and Numpy</b>. I use tools such as VS Code and Github to manage my projects. I am Familar with MERN Stack as well.
+As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQL,</b> as well as various frameworks and libraries such as <b>React.js, Django ,Django Rest Framework, Bootstrap,Material ui, Pandas,  Numpy</b> and MERN Stack. I use tools such as VS Code and Github to manage my projects. 
+<!-- I am Familar with MERN Stack as well. -->
 </br>
 </br>
 
