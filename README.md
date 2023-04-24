@@ -107,7 +107,7 @@ As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQ
   </div>
    
 
-</br>
+
 
 
 
