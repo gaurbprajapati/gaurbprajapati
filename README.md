@@ -70,6 +70,7 @@ As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQ
 
 
 <!-- 
+ -->
 
 <h1>Projects</h1>
 </br>
@@ -85,7 +86,6 @@ As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQ
 
 </br>
 </br>
- -->
 
  
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurbprajapati" alt="gaurbprajapati" /></a> </p>
