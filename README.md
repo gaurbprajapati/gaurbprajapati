@@ -70,6 +70,8 @@ As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQ
 
 
 <!-- 
+[LiveLink](https://yogayatahealth.netlify.app/)
+ [LiveLink](https://victor-resume-builder.herokuapp.com/login)
  -->
 
 <h1>Projects</h1>
@@ -77,8 +79,8 @@ As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQ
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [RESUME BUILDER](https://github.com/gaurbprajapati/QR-Based-Resume-builder)| This project simplifies resume creation with user-friendly interface, CRUD operations, customizable templates, PDF download, and upcoming QR format </br> Tech used:- MERN stack. [LiveLink](https://victor-resume-builder.herokuapp.com/login)
-| [Yogayata](https://github.com/gaurbprajapati/Gym-exercises-ReactApp) | A responsive fitness website built with ReactJS and Rapid API offers powerful search, exercise data, animated demos, and related Youtube videos. Upcoming features include user authentication, fitness tracking, and a blog. [LiveLink](https://yogayatahealth.netlify.app/)
+| [RESUME BUILDER](https://github.com/gaurbprajapati/QR-Based-Resume-builder)| This project simplifies resume creation with user-friendly interface, CRUD operations, customizable templates, PDF download, and upcoming QR format </br> Tech used:- MERN stack.
+| [Yogayata](https://github.com/gaurbprajapati/Gym-exercises-ReactApp) | A responsive fitness website built with ReactJS and Rapid API offers powerful search, exercise data, animated demos, and related Youtube videos. Upcoming features include user authentication, fitness tracking, and a blog. 
 | [BLOGING WEBSITE](https://github.com/gaurbprajapati/django-blog) | A full-featured web app designed with Django's ORM and SQLite, offering CRUD functionality, user authentication, and responsive front-end interfaces built with HTML, CSS, and Bootstrap. |
 | [NEWSHUNT](https://github.com/gaurbprajapati/new-app) |Users to access breaking news headlines and summaries in 40 words or less for quick and easy consumption of news .There is list all News organization , news categories, search option  </br> Tech  used:- REACTJS |
 | [Face Emotion  recognisation](https://github.com/gaurbprajapati/face-emotion-recognition) |This project uses machine learning algorithms to detect and classify human facial expressions into emotions such as sadness, happiness, fear, anger, surprise and disgust. etc.|
