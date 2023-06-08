@@ -16,12 +16,22 @@
  </div>
  
  </br>
- </br>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gaurbprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="gaurbprajapati" /> </p>
 
+ </br>
 
 
+
+
+- 🔭 I’m currently working on **Python , Django , Reactjs , Expressjs ,DataStructure, Algorithms, Problem Solving**.
+
+- 🌱 I’m currently learning **Node.js , Devops**.
+<!-- - 🌱 I’m  Currently Exploring Devops . -->
+- 💬 Ask me about **Web development , Django , Reactjs ,Python , Javascript , DataStructure & Algorithms, NoSQL , Problem Solving technique, SQL**
+ 
+- 📫 How to reach me: **gauravprajapati094@gamil.com**.
 
 
 
