@@ -89,6 +89,7 @@ As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQ
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
+| [PORTFOLIO WEBSITE](https://github.com/gaurbprajapati/gaurav-prajapati-portfolio)| My portfolio website, crafted with ReactJS and Framer Motion, offers a seamless user experience with captivating animations, responsive design, and stunning visuals achieved through HTML and SCSS customization..
 | [RESUME BUILDER](https://github.com/gaurbprajapati/QR-Based-Resume-builder)| This project simplifies resume creation with user-friendly interface, CRUD operations, customizable templates, PDF download, and upcoming QR format </br> Tech used:- MERN stack.
 | [Yogayata](https://github.com/gaurbprajapati/Gym-exercises-ReactApp) | A responsive fitness website built with ReactJS and Rapid API offers powerful search, exercise data, animated demos, and related Youtube videos. Upcoming features include user authentication, fitness tracking, and a blog. 
 | [BLOGING WEBSITE](https://github.com/gaurbprajapati/django-blog) | A full-featured web app designed with Django's ORM and SQLite, offering CRUD functionality, user authentication, and responsive front-end interfaces built with HTML, CSS, and Bootstrap. |
