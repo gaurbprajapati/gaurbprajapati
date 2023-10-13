@@ -15,12 +15,12 @@
    </a>
  </div>
  
- </br>
+ 
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gaurbprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="gaurbprajapati" /> </p>
 
- </br>
+
 
 
 
@@ -35,9 +35,7 @@
 
 
 
- <b></b>
-  <b></b>
-<!--    <b></b> -->
+
 
 
 <h1>Technical Skills </h1>
@@ -86,7 +84,7 @@ As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQ
  <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
-</br>
+
 
 
 
@@ -96,7 +94,7 @@ As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQ
  -->
 
 <h1>Projects</h1>
-</br>
+
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
@@ -115,8 +113,7 @@ As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQ
  
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurbprajapati" alt="gaurbprajapati" /></a> </p>
 
-</br>
-</br>
+
 
 <table align="center" >
   <tr>
