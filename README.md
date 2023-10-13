@@ -50,8 +50,8 @@ As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQ
 | **Programming Languages** | **Frameworks and Libraries** | **Databases** | **Tools**         |
 |---------------------------|-----------------------------|--------------|-------------------|
 | Python                    | ReactJS                     | SQL          | VS Code           |
-| Java                      | Node.js                     | MongoDB      | Git and GitHub    |
-| JavaScript                | Express.js                  |              | Postman           |
+| JavaScript                | Node.js                     | MongoDB      | Git and GitHub    |
+| Java                      | Express.js                  |              | Postman           |
 | HTML                      | Django                      |              |                   |
 | CSS                       | Bootstrap                   |              |                   |
 |                           | Mongoose                    |              |                   |
