@@ -46,8 +46,19 @@ I have a strong academic background in technical courses such as <b> Data Struct
 
 As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQL,</b> as well as various frameworks and libraries such as <b>React.js, Django ,Django Rest Framework, Bootstrap,Material ui, Pandas,  Numpy</b> and <b> MERN Stack </b> . I use tools such as VS Code and Github to manage my projects. 
 <!-- I am Familar with MERN Stack as well. -->
-</br>
-</br>
+
+| **Programming Languages** | **Frameworks and Libraries** | **Databases** | **Tools**         |
+|---------------------------|-----------------------------|--------------|-------------------|
+| Python                    | ReactJS                     | SQL          | VS Code           |
+| Java                      | Node.js                     | MongoDB      | Git and GitHub    |
+| JavaScript                | Express.js                  |              | Postman           |
+| HTML                      | Django                      |              |                   |
+| CSS                       | Bootstrap                   |              |                   |
+|                           | Mongoose                    |              |                   |
+|                           | Pandas                      |              |                   |
+|                           | Numpy                       |              |                   |
+
+
 
 <p align="center"> 
 
