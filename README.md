@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning **Node.js , Devops**.
 <!-- - 🌱 I’m  Currently Exploring Devops . -->
-- 💬 Ask me about **Web development , Django , Reactjs ,Python , Javascript , DataStructure & Algorithms, NoSQL , Problem Solving technique, SQL**
+- 💬 Ask me about **Web development , Django , Reactjs ,Python , Javascript , DataStructure & Algorithms, NoSQL , Problem Solving technique, SQL, Pandas, Numpy**
  
 - 📫 How to reach me: **gauravprajapati094@gamil.com**.
 
