@@ -2,7 +2,7 @@
 
 <h1 align="center" >Hi, I'm <a color="red" href="https://www.linkedin.com/in/gaurav-prajapati-297513188/" target="_blank"> Gaurav Prajapati </a></h1>
 
-<h4 align="center" >I am <b></b> BTECH <b>Software Engineer at RCRM </b> at NIET, As of now, I am focused on <a >web development, cloud Computing and Data Science </a> and exploring many fields such as DevOps etc.</h4>
+<h4 align="center" >I am  <b>Software Engineer </b> , As of now, I am focused on <a >web development, cloud Computing and Data Science </a> and exploring many fields such as DevOps etc.</h4>
 
 <h3 align="center"> Student | Passionate Developer | Learner </h3>
 <div align="center">
