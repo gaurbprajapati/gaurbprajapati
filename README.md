@@ -2,9 +2,9 @@
 
 <h1 align="center" >Hi, I'm <a color="red" href="https://www.linkedin.com/in/gaurav-prajapati-297513188/" target="_blank"> Gaurav Prajapati </a></h1>
 
-<h4 align="center" >I am  <b>Software Engineer </b> , As of now, I am focused on <a >web development, cloud Computing and Data Science </a> and exploring many fields such as DevOps etc.</h4>
+<h4 align="center" >I am  <b>Software Engineer from India </b> , As of now, I am focused on <a >Full Stack Web development, Automation Testing, cloud Computing and Data Science </a> and exploring many fields such as Mobile App Development, DevOps etc.</h4>
 
-<h3 align="center"> Student | Passionate Developer | Learner </h3>
+<h3 align="center">I am Software Engineer | Passionate Developer | Learner </h3> 
 <div align="center">
 <a  href="https://www.linkedin.com/in/gaurav-prajapati-297513188/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a  href="https://github.com/gaurbprajapati" target="_blank"><img alt="github" src="https://img.shields.io/badge/github%20-656d76.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
