@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently working on **Python  , Django , JavaScript , Reactjs , Expressjs ,DataStructure, Algorithms, Problem Solving**.
 
-- 🌱 I’m currently learning **Node.js , Devops**.
+- 🌱 I’m currently learning **React Native, Node.js, Devops**.
 <!-- - 🌱 I’m  Currently Exploring Devops . -->
 - 💬 Ask me about **Web development , Django , Reactjs ,Python , Javascript , DataStructure & Algorithms, NoSQL , Problem Solving technique, SQL, Pandas, Numpy**
  
