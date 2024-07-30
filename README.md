@@ -2,7 +2,7 @@
 
 <h1 align="center" >Hi, I'm <a color="red" href="https://www.linkedin.com/in/gaurav-prajapati-297513188/" target="_blank"> Gaurav Prajapati </a></h1>
 
-<h4 align="center" >I am  <b>Software Engineer from India </b> , As of now, I am focused on <a >Full Stack Web development, Automation Testing, cloud Computing and Data Science </a> and exploring many fields such as Mobile App Development, DevOps etc.</h4>
+<h4 align="center" >I am  <b>Software Engineer from India </b> , As of now, I am focused on <a >Full Stack Web development, Automation , cloud Computing and Data Science </a> and exploring many fields such as Mobile App Development, DevOps etc.</h4>
 
 <h3 align="center">I am Software Engineer | Passionate Developer | Learner </h3> 
 <div align="center">
