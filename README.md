@@ -24,54 +24,96 @@ Building backend services, full-stack applications, automation systems, and deve
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer focused on **backend and full-stack development**, with professional experience building backend services, automation infrastructure, internal tools, and web applications.
+I'm a Software Engineer focused primarily on **backend and full-stack development**, with professional experience building backend services, internal platforms, automation infrastructure, dashboards, and developer-focused products.
 
-My primary technical focus is **Java, Spring Boot, REST APIs, SQL, React, AWS, and scalable software development**.
+My current engineering focus is around:
 
-I enjoy building systems end-to-end — from designing backend APIs and business logic to developing frontend interfaces and integrating databases, cloud services, and CI/CD pipelines.
+* **Java & Spring Boot**
+* **REST API development**
+* **SQL & database design**
+* **React-based applications**
+* **AWS & cloud technologies**
+* **Docker & CI/CD**
+* **System design and scalable backend architecture**
 
-My experience in test automation and SDET has also helped me develop a strong understanding of:
+I also have hands-on experience with **Python, Django, Django REST Framework, Node.js, Express.js, MongoDB, and other web technologies**, having worked with them across academic, personal, and professional projects.
 
-* API design and testing
-* Software architecture
-* Reliable distributed systems
-* Automation
-* CI/CD
-* Debugging and problem solving
-* Production-quality engineering practices
-
-My long-term goal is to grow as a **strong backend/full-stack engineer while continuing to leverage my automation and quality engineering experience**.
+My experience in test automation has also given me a strong understanding of API behavior, reliability, debugging, CI/CD, concurrency, and production-quality engineering.
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Technology Stack
 
-## Backend
+## 💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge" alt="REST APIs"/>
-</p>
-
-## Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-## Databases
+---
+
+## 🔙 Backend Development
+
+### Primary
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge" alt="REST APIs"/>
+</p>
+
+### Previously Worked With
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge" alt="Django REST Framework"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
+  <img src="https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
+  <img src="https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge" alt="Responsive Design"/>
+</p>
+
+---
+
+## 🗄️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-## Cloud & DevOps
+Experience includes:
+
+* Relational databases
+* SQL queries
+* Database-driven applications
+* MongoDB
+* Django ORM
+* Mongoose
+* Test environment databases
+
+---
+
+## ☁️ Cloud, DevOps & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
@@ -81,7 +123,20 @@ My long-term goal is to grow as a **strong backend/full-stack engineer while con
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-## Testing & Automation
+Worked with:
+
+* AWS
+* Docker
+* Jenkins
+* CI/CD pipelines
+* Git & GitHub
+* Environment-based deployments
+* Scheduled jobs
+* Automated engineering workflows
+
+---
+
+## 🧪 Testing & Automation
 
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
@@ -89,7 +144,41 @@ My long-term goal is to grow as a **strong backend/full-stack engineer while con
   <img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge" alt="TestNG"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber"/>
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge" alt="JMeter"/>
 </p>
+
+Experience includes:
+
+* API automation
+* UI automation
+* Integration testing
+* Parallel test execution
+* Test data management
+* CI/CD test execution
+* Test reporting
+* API validation
+* Regression automation
+
+---
+
+## 📊 Python & Data Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+Previously worked with Python for:
+
+* Web development
+* Django applications
+* Django REST APIs
+* Data processing
+* Pandas
+* NumPy
+* Exploratory projects
 
 ---
 
@@ -97,42 +186,41 @@ My long-term goal is to grow as a **strong backend/full-stack engineer while con
 
 ## Software Engineer — RecruitCRM
 
-My professional experience involves building and improving **backend services, automation infrastructure, internal tools, and test systems**.
-
-Some of the engineering work I've done includes:
+My professional work spans **backend development, internal engineering systems, automation infrastructure, APIs and frontend dashboards**.
 
 ### 🔹 Backend Services
 
-Built backend services using **Java and Spring Boot** for internal engineering and testing workflows.
+Built backend services using **Java and Spring Boot** to support internal engineering and testing workflows.
 
 Worked with:
 
-* REST APIs
 * Spring Boot
+* REST APIs
 * SQL databases
 * Asynchronous processing
 * Scheduled jobs
 * API integrations
 * Multi-environment services
+* Concurrent execution
 
-### 🔹 Test Data Platform
+### 🔹 Test Data Services
 
-Designed backend services to dynamically generate and manage test data across different environments and databases.
+Designed services for dynamically creating and managing test data across multiple environments and databases.
 
-The system included:
+The architecture included:
 
-* Spring Boot services
+* Spring Boot
 * REST APIs
-* Database interactions
+* Database operations
 * Concurrent processing
 * Test data lifecycle management
 * Automated cleanup
 
 This significantly reduced the time required to prepare test environments and test data.
 
-### 🔹 Concurrent & Asynchronous Systems
+### 🔹 Concurrent Processing
 
-Designed an asynchronous execution framework using Java concurrency concepts such as:
+Designed an asynchronous execution framework using Java concurrency concepts including:
 
 * Thread pools
 * ConcurrentHashMap
@@ -140,33 +228,31 @@ Designed an asynchronous execution framework using Java concurrency concepts suc
 * Thread-safe data handling
 * Custom annotations
 
-This helped scale automated execution across many parallel workflows while improving infrastructure utilization.
+The framework supported **40+ parallel executions** and improved test infrastructure utilization.
 
-### 🔹 Internal Dashboards
+### 🔹 Internal React Dashboard
 
-Built React-based internal dashboards to provide visibility into QA and engineering data.
+Built React-based dashboards integrating with external APIs to provide better visibility into engineering and QA information.
 
 Worked with:
 
 * React
-* APIs
 * JavaScript
-* Data visualization
+* REST APIs
 * External API integrations
+* Data presentation
 
 ### 🔹 Business Rule Automation
 
-Worked on automation for complex timesheet and payroll business rules involving:
+Automated complex timesheet and payroll business rules involving:
 
 * Pay rates
 * Bill rates
 * Overtime
 * Break calculations
-* Shift rules
-* Multiple rule combinations
+* Shift logic
+* Multiple combinations
 * Edge cases
-
-This project involved designing reusable automation components and handling a large number of business scenarios.
 
 ---
 
@@ -174,31 +260,31 @@ This project involved designing reusable automation components and handling a la
 
 ## ScenarIQ — API Test Coverage Intelligence
 
-**ScenarIQ** is a developer-focused platform I built to understand API test coverage beyond a simple percentage.
+**ScenarIQ** is a developer-focused platform designed to understand API test coverage beyond a simple percentage.
 
-Traditional coverage often answers:
+Instead of only asking:
 
-> "How much of the API is covered?"
+> "What percentage of APIs are covered?"
 
-ScenarIQ focuses on a deeper question:
+ScenarIQ focuses on:
 
 > "Which API scenarios are covered, how are they covered, and what important scenarios are missing?"
 
-### What it does
+### Features
 
-* Scans backend repositories
-* Analyzes API routes and controllers
-* Scans automation repositories
-* Maps APIs to automation scenarios
-* Identifies covered scenarios
-* Finds missing test scenarios
-* Provides code-level evidence
-* Analyzes authentication scenarios
-* Analyzes validation scenarios
-* Identifies negative scenarios
-* Highlights API coverage gaps
+* Scan backend repositories
+* Analyze API routes and controllers
+* Scan automation repositories
+* Map APIs to test scenarios
+* Identify covered scenarios
+* Find missing scenarios
+* Provide code-level evidence
+* Analyze authentication scenarios
+* Analyze validation scenarios
+* Identify negative scenarios
+* Highlight API coverage gaps
 
-### Architecture & Technology
+### Technology
 
 **Backend**
 
@@ -212,85 +298,190 @@ ScenarIQ focuses on a deeper question:
 
 * React
 * Ant Design
+* JavaScript
 
-**Data**
+**Data & Analysis**
 
-* SQL / Database systems
-* JSON-based analysis results
-
-**Engineering Concepts**
-
+* SQL
+* JSON
 * Static code analysis
 * Semantic matching
 * API analysis
-* Backend processing
-* AI-assisted analysis
 
 ScenarIQ currently supports analysis of **Spring Boot and Laravel backend applications**.
 
 ---
 
-# 🛠️ Things I Like Building
+# 📌 Previous Projects
 
-I'm especially interested in building:
+## Campus Nexus
 
-### Backend Systems
+A college social ecosystem designed for students and teachers.
 
-REST APIs, backend services, microservices, business logic and scalable applications.
+Features included:
 
-### Full-Stack Applications
+* Role-based access control
+* College club management
+* Event management
+* Placement management
+* Resume generation
+* Blogs and announcements
+* Notifications
 
-Applications where I can work across backend APIs, databases and React-based frontend interfaces.
+**Technologies:** React, Python, Django, Django REST Framework, SQL
 
-### Developer Tools
+---
 
-Products that make developers faster and make engineering workflows easier to understand.
+## Resume Builder
 
-### Automation Systems
+A web application for creating resumes using customizable templates.
 
-Reusable systems that eliminate repetitive engineering work.
+Features included:
 
-### Engineering Intelligence
+* Resume creation
+* CRUD operations
+* Multiple templates
+* PDF generation
+* User-friendly interface
 
-Tools that analyze source code, APIs and software systems to provide useful engineering insights.
+**Technologies:** MERN Stack, React, Node.js, Express.js, MongoDB
+
+---
+
+## Office Employee & Task Management System
+
+A web application for managing employees and assigning and tracking tasks.
+
+Features included:
+
+* Employee management
+* Task management
+* Task assignment
+* Status tracking
+* Admin functionality
+* REST APIs
+
+**Technologies:** Python, Django, Django REST Framework, SQLite
+
+---
+
+## Fitness / Exercise Application
+
+A React-based fitness application providing exercise information and search functionality.
+
+**Technologies:** React.js, JavaScript, REST APIs, RapidAPI
+
+---
+
+## Blogging Platform
+
+A Django-based blogging application with:
+
+* User authentication
+* CRUD operations
+* Blog management
+* Database integration
+* Responsive UI
+
+**Technologies:** Python, Django, SQLite, HTML, CSS, Bootstrap
+
+---
+
+## News Application
+
+A React-based application for consuming news headlines and summaries.
+
+Features included:
+
+* News categories
+* Search
+* News organizations
+* Breaking news
+* API integration
+
+**Technologies:** React.js, JavaScript, REST APIs
+
+---
+
+# 🧠 Core Engineering Concepts
+
+I have worked with and continue to develop knowledge in:
+
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* REST API Design
+* API Integration
+* Multithreading
+* Concurrency
+* Database Design
+* SQL
+* Microservices
+* Authentication & Authorization
+* CI/CD
+* Cloud Computing
+* Distributed Systems
+* System Design
+* Software Testing
+* Debugging & Problem Solving
 
 ---
 
 # 📚 Currently Learning
 
-I'm continuously improving my knowledge in:
+My current focus is becoming stronger in **backend and full-stack engineering**.
+
+### Backend
 
 * Advanced Java
 * Spring Boot
 * Microservices
-* System Design
-* Distributed Systems
-* Multithreading & Concurrency
-* Database Design
+* REST API architecture
 * Kafka
+* Distributed systems
+* Backend architecture
+
+### System Design
+
+* High-level design
+* Low-level design
+* Scalability
+* Caching
+* Database architecture
+* Messaging systems
+* Fault tolerance
+
+### Cloud
+
 * AWS
 * Docker
 * CI/CD
+* Cloud-native applications
+
+### Problem Solving
+
 * Data Structures & Algorithms
-* Backend Architecture
+* Competitive programming
+* Backend interview problems
 
 ---
 
-# 🎯 My Current Focus
+# 🎯 My Engineering Focus
 
 ```text
-Backend Engineering
-        ↓
-Full-Stack Development
-        ↓
-System Design & Scalable Architecture
-        ↓
-Cloud & Distributed Systems
-        ↓
-Automation & Quality Engineering
+        Backend Engineering
+                ↓
+        Full-Stack Development
+                ↓
+       System Design & Architecture
+                ↓
+          Cloud & DevOps
+                ↓
+   Automation & Quality Engineering
 ```
 
-My primary goal is to become a **strong backend/full-stack engineer capable of designing, building, testing and deploying production-grade software systems**.
+My primary goal is to become a **strong backend/full-stack engineer capable of designing, building, testing and deploying scalable production-grade software systems**.
+
+My background in automation and SDET gives me an additional perspective on reliability, APIs, testing, debugging and software quality.
 
 ---
 
@@ -312,13 +503,14 @@ My primary goal is to become a **strong backend/full-stack engineer capable of d
 
 # 🤝 Let's Connect
 
-I'm always interested in connecting with engineers and builders working on:
+I'm interested in connecting with engineers and builders working on:
 
 * Backend engineering
 * Full-stack development
 * Developer tools
 * AI-powered engineering products
 * Cloud platforms
+* Distributed systems
 * Software architecture
 * Automation
 
