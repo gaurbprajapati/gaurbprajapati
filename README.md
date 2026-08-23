@@ -1,143 +1,335 @@
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/gaurav-prajapati-297513188/" target="_blank">Gaurav Prajapati</a></h1>
 
+<h3 align="center">
+Software Engineer | Backend & Full-Stack Developer
+</h3>
 
-<h1 align="center" >Hi, I'm <a color="red" href="https://www.linkedin.com/in/gaurav-prajapati-297513188/" target="_blank"> Gaurav Prajapati </a></h1>
-
-<h4 align="center" >I am  <b>Software Engineer from India </b> , As of now, I am focused on <a >Full Stack Web development, Automation , cloud Computing and Data Science </a> and exploring many fields such as Mobile App Development, DevOps etc.</h4>
-
-<h3 align="center">I am Software Engineer | Passionate Developer | Learner </h3> 
-<div align="center">
-<a  href="https://www.linkedin.com/in/gaurav-prajapati-297513188/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a  href="https://github.com/gaurbprajapati" target="_blank"><img alt="github" src="https://img.shields.io/badge/github%20-656d76.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-<!-- <a href="https://twitter.com/varu__" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a> -->
-<a href="mailto:gauravprajapati094@gamil.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- <a  href="https://dev.to/gaurbprajapati" target="_blank"><img alt="dev" src="https://img.shields.io/badge/dev-000000?style=for-the-badge&logo=dev&logoColor=white">
-<!-- <a  href="https://www.instagram.com/gaurbprajapati_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> -->
-   </a>
- </div>
- 
- 
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gaurbprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="gaurbprajapati" /> </p>
-
-
-
-
-
-
-- 🔭 I’m currently working on **Python  , Django , JavaScript , Reactjs , Expressjs ,DataStructure, Algorithms, Problem Solving**.
-
-- 🌱 I’m currently learning **React Native, Node.js, Devops**.
-<!-- - 🌱 I’m  Currently Exploring Devops . -->
-- 💬 Ask me about **Web development , Django , Reactjs ,Python , Javascript , DataStructure & Algorithms, NoSQL , Problem Solving technique, SQL, Pandas, Numpy**
- 
-- 📫 How to reach me: **gauravprajapati094@gamil.com**.
-
-
-
-
-
-
-<h1>Technical Skills </h1>
- 
-I have a strong academic background in technical courses such as <b> Data Structures and Algorithms </b>, Operating Systems, DBMS , Computer Networks and Object Oriented Programming. Additionally, I have completed several online certificates, including  <b> full stack web development  </b>, HackerRank Problem Solving, Google Cloud Fundamentals, and Essential Google Cloud Infrastructure.
-
-As a passionate programmer, I am skilled in <b> Python, Java, JavaScript, and SQL,</b> as well as various frameworks and libraries such as <b>React.js, Django ,Django Rest Framework, Bootstrap,Material ui, Pandas,  Numpy</b> and <b> MERN Stack </b> . I use tools such as VS Code and Github to manage my projects. 
-<!-- I am Familar with MERN Stack as well. -->
-
-| **Programming Languages** | **Frameworks and Libraries** | **Databases** | **Tools**         |
-|---------------------------|-----------------------------|--------------|-------------------|
-| Python                    | ReactJS                     | SQL          | VS Code           |
-| JavaScript                | Node.js                     | MongoDB      | Git and GitHub    |
-| Java                      | Express.js                  |              | Postman           |
-| HTML                      | Django                      |              |                   |
-| CSS                       | Bootstrap                   |              |                   |
-|                           | Mongoose                    |              |                   |
-|                           | Pandas                      |              |                   |
-|                           | Numpy                       |              |                   |
-
-
-
-<p align="center"> 
-
- <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-339933.svg?&style=for-the-badge&logo=Django&logoColor=white" />
- <img alt="Django-rest-Framework" src="https://img.shields.io/badge/djangorestframework-339933.svg?&style=for-the-badge&logo=djangorestframework&logoColor=white" />
-  <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="sass" src="https://img.shields.io/badge/sass-bf4080.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
- <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-6283ff.svg?&style=for-the-badge&logo=bootsrap&logoColor=white" />
- <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
- <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
- <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
- <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
- <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
- <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
- <img  alt="redux"  src="https://img.shields.io/badge/redux-%23ED8B00.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
- <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
- <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
- <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<p align="center">
+Building backend services, full-stack applications, automation systems, and developer-focused products.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-prajapati-297513188/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/gaurbprajapati" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:gauravprajapati094@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
+---
 
+## 👨‍💻 About Me
 
+I'm a Software Engineer focused on **backend and full-stack development**, with professional experience building backend services, automation infrastructure, internal tools, and web applications.
 
-<!-- 
-[LiveLink](https://yogayatahealth.netlify.app/)
- [LiveLink](https://victor-resume-builder.herokuapp.com/login)
- -->
+My primary technical focus is **Java, Spring Boot, REST APIs, SQL, React, AWS, and scalable software development**.
 
-<h1>Projects</h1>
+I enjoy building systems end-to-end — from designing backend APIs and business logic to developing frontend interfaces and integrating databases, cloud services, and CI/CD pipelines.
 
+My experience in test automation and SDET has also helped me develop a strong understanding of:
 
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| [Campus Nexus](https://github.com/gaurbprajapati/srm)|Our project is a comprehensive solution designed to create a social ecosystem for college students and teachers. Key features include:1. Role-Based Access Control: Students are designated as users, while teachers serve as admins, ensuring secure and organized access.2. College Club Management: Teachers have the ability to create, edit, update, and delete various college clubs, such as educational or sports clubs, and can organize events on the platform. Students can view clubs, join them, and check all related events to participate.3. College Placement Management: The college placement office can post job listings, while students can view and apply for these opportunities.4. Resume Creation: Students can automatically generate resumes in multiple templates.5. Blog and Content Posting:  Both students and teachers can post blogs or announcements visible to the entire college. Teachers’ posts are highlighted with a star on their profiles to distinguish them.6. Notifications and Announcements : The college can share important notifications or announcements with everyone through the platform.This project aims to enhance communication and collaboration within the college community.
-| [PORTFOLIO WEBSITE](https://github.com/gaurbprajapati/gaurav-prajapati-portfolio)| My portfolio website, crafted with ReactJS and Framer Motion, offers a seamless user experience with captivating animations, responsive design, and stunning visuals achieved through HTML and SCSS customization.
-|  [RESUME BUILDER](https://github.com/gaurbprajapati/QR-Based-Resume-builder)| This project simplifies resume creation with user-friendly interface, CRUD operations, customizable templates, PDF download, and upcoming QR format </br> Tech used:- MERN stack.
-| [Office Employee and Task Work Management System](https://github.com/gaurbprajapati/Office-Employee-and-Task-Work-Management-System)|The Office Employee and Task Work Management System is a web application designed to streamline the management of employees and tasks within an office environment. The system provides an efficient way for the admin to manage the team, assign tasks, and monitor the progress of each task. Employees can access their assigned tasks, view their details, and update the task status. </br> Tech used:- Python , Django , Django Rest FrameWork.
-|[Yogayata](https://github.com/gaurbprajapati/Gym-exercises-ReactApp) | A responsive fitness website built with ReactJS and Rapid API offers powerful search, exercise data, animated demos, and related Youtube videos. Upcoming features include user authentication, fitness tracking, and a blog. 
-| [BLOGING WEBSITE](https://github.com/gaurbprajapati/django-blog) | A full-featured web app designed with Django's ORM and SQLite, offering CRUD functionality, user authentication, and responsive front-end interfaces built with HTML, CSS, and Bootstrap. |
-| [NEWSHUNT](https://github.com/gaurbprajapati/new-app) |Users to access breaking news headlines and summaries in 40 words or less for quick and easy consumption of news .There is list all News organization , news categories, search option  </br> Tech  used:- REACTJS |
-| [Face Emotion  recognisation](https://github.com/gaurbprajapati/face-emotion-recognition) |This project uses machine learning algorithms to detect and classify human facial expressions into emotions such as sadness, happiness, fear, anger, surprise and disgust. etc.|
-| [wholesale.com](https:/)  |Currently working on full-featured e-commerce website with a shopping cart, product reviews and ratings, top products carousel, pagination, and search. It includes user profiles with order history and an admin panel for product and user management, order details, delivery status updates, checkout process, and payment integration with PayPal and credit cards. </br>Tech using : Django-Rest-Framework,Reactjs,Redux,SCSS
+* API design and testing
+* Software architecture
+* Reliable distributed systems
+* Automation
+* CI/CD
+* Debugging and problem solving
+* Production-quality engineering practices
 
-</br>
-</br>
+My long-term goal is to grow as a **strong backend/full-stack engineer while continuing to leverage my automation and quality engineering experience**.
 
- 
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurbprajapati" alt="gaurbprajapati" /></a> </p>
+---
 
+# 🚀 Tech Stack
 
+## Backend
 
-<table align="center" >
-  <tr>
-   
-<td><img src="https://github-readme-stats.vercel.app/api?username=gaurbprajapati&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Gaurav Prajapati" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurbprajapati&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Gaurav Prajapati" /></td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge" alt="REST APIs"/>
+</p>
 
+## Frontend
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurbprajapati&theme=dark" alt="Gaurav Prajapati" /></p>
-  </div>
-   
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
+## Databases
 
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
 
+## Cloud & DevOps
 
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
+## Testing & Automation
 
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/RestAssured-4B5563?style=for-the-badge" alt="RestAssured"/>
+  <img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge" alt="TestNG"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+</p>
 
+---
 
+# 💼 Professional Experience
 
+## Software Engineer — RecruitCRM
 
+My professional experience involves building and improving **backend services, automation infrastructure, internal tools, and test systems**.
 
+Some of the engineering work I've done includes:
 
+### 🔹 Backend Services
+
+Built backend services using **Java and Spring Boot** for internal engineering and testing workflows.
+
+Worked with:
+
+* REST APIs
+* Spring Boot
+* SQL databases
+* Asynchronous processing
+* Scheduled jobs
+* API integrations
+* Multi-environment services
+
+### 🔹 Test Data Platform
+
+Designed backend services to dynamically generate and manage test data across different environments and databases.
+
+The system included:
+
+* Spring Boot services
+* REST APIs
+* Database interactions
+* Concurrent processing
+* Test data lifecycle management
+* Automated cleanup
+
+This significantly reduced the time required to prepare test environments and test data.
+
+### 🔹 Concurrent & Asynchronous Systems
+
+Designed an asynchronous execution framework using Java concurrency concepts such as:
+
+* Thread pools
+* ConcurrentHashMap
+* Parallel execution
+* Thread-safe data handling
+* Custom annotations
+
+This helped scale automated execution across many parallel workflows while improving infrastructure utilization.
+
+### 🔹 Internal Dashboards
+
+Built React-based internal dashboards to provide visibility into QA and engineering data.
+
+Worked with:
+
+* React
+* APIs
+* JavaScript
+* Data visualization
+* External API integrations
+
+### 🔹 Business Rule Automation
+
+Worked on automation for complex timesheet and payroll business rules involving:
+
+* Pay rates
+* Bill rates
+* Overtime
+* Break calculations
+* Shift rules
+* Multiple rule combinations
+* Edge cases
+
+This project involved designing reusable automation components and handling a large number of business scenarios.
+
+---
+
+# 🚀 Featured Project
+
+## ScenarIQ — API Test Coverage Intelligence
+
+**ScenarIQ** is a developer-focused platform I built to understand API test coverage beyond a simple percentage.
+
+Traditional coverage often answers:
+
+> "How much of the API is covered?"
+
+ScenarIQ focuses on a deeper question:
+
+> "Which API scenarios are covered, how are they covered, and what important scenarios are missing?"
+
+### What it does
+
+* Scans backend repositories
+* Analyzes API routes and controllers
+* Scans automation repositories
+* Maps APIs to automation scenarios
+* Identifies covered scenarios
+* Finds missing test scenarios
+* Provides code-level evidence
+* Analyzes authentication scenarios
+* Analyzes validation scenarios
+* Identifies negative scenarios
+* Highlights API coverage gaps
+
+### Architecture & Technology
+
+**Backend**
+
+* Java
+* Spring Boot
+* Spring AI
+* JavaParser
+* REST APIs
+
+**Frontend**
+
+* React
+* Ant Design
+
+**Data**
+
+* SQL / Database systems
+* JSON-based analysis results
+
+**Engineering Concepts**
+
+* Static code analysis
+* Semantic matching
+* API analysis
+* Backend processing
+* AI-assisted analysis
+
+ScenarIQ currently supports analysis of **Spring Boot and Laravel backend applications**.
+
+---
+
+# 🛠️ Things I Like Building
+
+I'm especially interested in building:
+
+### Backend Systems
+
+REST APIs, backend services, microservices, business logic and scalable applications.
+
+### Full-Stack Applications
+
+Applications where I can work across backend APIs, databases and React-based frontend interfaces.
+
+### Developer Tools
+
+Products that make developers faster and make engineering workflows easier to understand.
+
+### Automation Systems
+
+Reusable systems that eliminate repetitive engineering work.
+
+### Engineering Intelligence
+
+Tools that analyze source code, APIs and software systems to provide useful engineering insights.
+
+---
+
+# 📚 Currently Learning
+
+I'm continuously improving my knowledge in:
+
+* Advanced Java
+* Spring Boot
+* Microservices
+* System Design
+* Distributed Systems
+* Multithreading & Concurrency
+* Database Design
+* Kafka
+* AWS
+* Docker
+* CI/CD
+* Data Structures & Algorithms
+* Backend Architecture
+
+---
+
+# 🎯 My Current Focus
+
+```text
+Backend Engineering
+        ↓
+Full-Stack Development
+        ↓
+System Design & Scalable Architecture
+        ↓
+Cloud & Distributed Systems
+        ↓
+Automation & Quality Engineering
+```
+
+My primary goal is to become a **strong backend/full-stack engineer capable of designing, building, testing and deploying production-grade software systems**.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurbprajapati&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="Gaurav's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurbprajapati&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurbprajapati&hide_border=true&theme=transparent" alt="GitHub Streak"/>
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in connecting with engineers and builders working on:
+
+* Backend engineering
+* Full-stack development
+* Developer tools
+* AI-powered engineering products
+* Cloud platforms
+* Software architecture
+* Automation
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-prajapati-297513188/" target="_blank">
+    <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Build. Learn. Improve. 🚀</i>
+</p>
